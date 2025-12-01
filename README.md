@@ -9,7 +9,7 @@ Tracking Starlink connection across multiple ground stations to measure access d
 
 ###  Dynamic Spectrum Allocation (DSA) with DQN
 Real-time DSA demo showing how the agent learns to allocate spectrum to ground users under GEO–LEO coexistence.  
-🎥 [Watch the DSA demo on LinkedIn](<insert your DSA demo link here>)
+ [Watch the DSA demo on LinkedIn](<insert your DSA demo link here>)
 
 
 
